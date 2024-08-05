@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+conflict1입니다.
+=======
+conflict-2 입니다.
+>>>>>>> conflict-2
